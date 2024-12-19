@@ -40,7 +40,7 @@ const HeroSection = () => {
       {/* Right Side - Image */}
       <div className="relative w-full md:w-1/2 h-full mt-40 md:mt-30">
         <Image
-          src="/governor.png" // Replace with the correct image path
+          src="/gkt.png" // Replace with the correct image path
           alt="Governor Image"
           layout="intrinsic" // Use intrinsic to maintain aspect ratio without cutting off
           width={500}  // Adjust width based on your requirements
